@@ -2,7 +2,8 @@
 Various tools for authoring publications in scholarly journals
 
 peps.rb - Homebrew formula to fix PEPS LaTeX templates so that natbib
-   \cite{} commands may be used for in-text citations.
+   \cite{} commands may be used for in-text citations, not just with
+   \nocite{} to build the bibliography.
    
    Usage:
    ```bash
